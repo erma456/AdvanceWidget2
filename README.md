@@ -8,7 +8,7 @@ JUDUL : BUTTER KNIFE
 ![Screenshoot 2] (http://s4.postimg.org/fiihmxcj1/Butter_Knife2.png)<br>
 <br>
 ### C.(Data Diri)
-- Nama    : ERMA ROHMAWATi
+- Nama    : ERMA ROHMAWATI
 - Kelas   : XI RPL 6
 - Nomor   : 11
 - NIS     : 47040
